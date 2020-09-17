@@ -1,0 +1,9 @@
+{
+    "name": "Bliss",
+    "description": "Default Edition",
+    "version": "1.0.0",
+    "author": "katacarbix",
+    "theme": "bliss.css",
+    "consent": "false",
+    "license": "None"
+}
